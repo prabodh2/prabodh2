@@ -1,5 +1,3 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/raw/main/Github%20Banner.png)
-
 <h1 align="center">Hi 👋, I'm Badimi Prabodh</h1>
 <h3 align="center">A Passionate Software Engineering from India</h3>
 <img align="Right" alt="coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
