@@ -28,4 +28,4 @@
   
   <br/><br/><br/>
 </div>
-<h3> Thank You For Wisiting The Account <h3>
+<h3 placeholder="centre"> Thank You For Wisiting The Account❤️❤️ <h3>
