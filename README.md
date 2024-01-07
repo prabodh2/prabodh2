@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Badimi Prabodh</h1>
+<h1 align="center">Hey 👋, I'm Badimi Prabodh</h1>
 
 <img align="Right" alt="coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
 
