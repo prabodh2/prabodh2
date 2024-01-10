@@ -1,6 +1,7 @@
-<h1 align="center">Hey 👋, I'm Badimi Prabodh</h1>
-
+<h1 align="center">Hi 👋, I'm Badimi Prabodh</h1>
+<h3 align="center"> 🧑🏻‍💻 I am a first year Btech student at ITM Skills University </h3>
 <img align="Right" alt="coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabodh2&label=Profile%20views&color=0e75b6&style=flat" alt="prabodh2" /> </p>
 
@@ -20,9 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabodh2&show_icons=true&locale=en" alt="prabodh2" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabodh2&" alt="prabodh2" /></p>
-<div align="center">
-
- 
-</div>
 <h1 align="center"> Thank You For Wisiting The Account❤️❤️ <h1>
