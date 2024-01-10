@@ -11,11 +11,21 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/badimi-prabodh-7a95b7283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/badimi-prabodh-7a95b7283/" height="30" width="40" /></a>
-</p>
-<p align="left">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/badimi-prabodh-7a95b7283/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/badimi-prabodh-7a95b7283/" height="30" width="40" />
+  </a>
+  
   <a href="https://twitter.com/BadimiP">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ1zAnHX4VdBlKilohWbn9UpexOS2IY7TBZA&usqp=CAU" width="40" height="30">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ1zAnHX4VdBlKilohWbn9UpexOS2IY7TBZA&usqp=CAU" width="40" height="30">
+  </a>
+
+  <a href="https://www.instagram.com/am_prabodh/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/480px-Instagram_logo_2016.svg.png" width="30" height="30">
+  </a>
+
+  <a href="https://medium.com/@prabodhbadimi1">
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*psYl0y9DUzZWtHzFJLIvTw.png" width="40" height="30">
+  </a>
 <p>
 
 
