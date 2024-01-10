@@ -36,4 +36,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabodh2&show_icons=true&locale=en" alt="prabodh2" /></p>
 
+# If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+<p align="center">
+  <a href="https://www.buymeacoffee.com/badimiprabodh" target="_blank">
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" />
+  </a>
+</p>
+
+<br><br>
 <h1 align="center"> Thank You For Wisiting The Account❤️❤️ <h1>
