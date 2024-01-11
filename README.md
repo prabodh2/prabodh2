@@ -37,7 +37,7 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=prabodh2&show_icons=true&locale=en" alt="prabodh2" /></p>
 
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 # If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <p align="center">
   <a href="https://www.buymeacoffee.com/badimiprabodh" target="_blank">
