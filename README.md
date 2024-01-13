@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Badimi Prabodh</h1>
-<h3 align="center"> 🧑🏻‍💻 I am a first year Btech student at ITM Skills University </h3>
+<h2 align="center"> 🧑🏻‍💻 I am a first year Btech student at ITM Skills University </h2>
+<h3 align="center">  I have a keen interest in playing badminton and chess during my leisure time.</h3>
 <img align="Right" alt="coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
 
 
